@@ -1,0 +1,10 @@
+.chart{
+width: 500px;
+-webkit-box-shadow: 2px 4px 10px 1px black;
+    box-shadow: 2px 4px 10px 1px rgb(222, 126, 126);
+    padding: 20px;
+
+    color: gray;
+   
+
+}
