@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sales_Dashboard/static/css/main.7df42146.css",
+    "main.js": "/Sales_Dashboard/static/js/main.a501eb0d.js",
+    "index.html": "/Sales_Dashboard/index.html",
+    "main.7df42146.css.map": "/Sales_Dashboard/static/css/main.7df42146.css.map",
+    "main.a501eb0d.js.map": "/Sales_Dashboard/static/js/main.a501eb0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7df42146.css",
+    "static/js/main.a501eb0d.js"
+  ]
+}
